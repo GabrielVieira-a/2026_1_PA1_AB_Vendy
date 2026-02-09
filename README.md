@@ -1,2 +1,2 @@
-# 2026_1_PA1_AB_Vendy-
+# 2026_1_PA1_AB_Vendy+
 Marketplace regional de produtos diversificados
