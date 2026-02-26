@@ -1,19 +1,13 @@
-# 2026_1_PA1_AB_Vendy+
+# Vendy
 
-Equipe:
+Marketplace regional de produtos diversificados. Uma solução de vendas online focada em micro e pequenos empreendedores locais.
 
-• Davi Rodrigues
+## Sobre o Projeto
+O Vendy é uma plataforma digital urbana sob demanda que conecta lojistas locais, clientes e entregadores. O objetivo é criar um canal único para compra, entrega e gestão financeira do pequeno lojista, oferecendo entrega rápida dentro da mesma cidade.
 
-• Gabriel Vieira Aranha
-
-• Lehi Rodrigues
-
-• Paulo Victor
-
-• David Frota
-
-
-
-
-
-Marketplace regional de produtos diversificados
+## Equipe Desenvolvedora
+* Davi Rodrigues
+* David Frota
+* Gabriel Vieira Aranha
+* Lehi Rodrigues
+* Paulo Victor
